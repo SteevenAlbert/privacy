@@ -9,7 +9,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 ### Information Collection and Use  
 For user authentication when using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to a user name, email address, age and gender. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
